@@ -7,7 +7,9 @@ import Banner from '../components/Banner'
 import { graphql } from 'gatsby'
 import { MDXRenderer } from 'gatsby-plugin-mdx'
 const PostTemplate = () => {
-  return <h2>post template</h2>
+  return <Wrapper>
+    post template
+  </Wrapper>  
 }
 
 
