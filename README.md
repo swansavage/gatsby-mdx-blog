@@ -1,12 +1,5 @@
 # GATSBY MDX BLOG
 
-## Initially Recorded with V2
-
-#### Changes
-
-1. Layout imported in every page instead of gatsby-browser.js
-2. No Instagram Component
-
 ## Project Setup
 
 1. Base - Gatsby Hello World
